@@ -8,7 +8,7 @@ EMAIL;type=INTERNET;type=HOME;type=pref:vrnlab@yandex.ru
 TEL;type=CELL;type=VOICE;type=pref:+7 000 000-00-00
 URL;type=pref:https://vrnlab.ru/
 
-X-SOCIALPROFILE;type=Telegram:EnLab
+//X-SOCIALPROFILE;type=Telegram:EnLab
 X-SOCIALPROFILE;type=WhatsApp:+70000000000
 X-SOCIALPROFILE;type=Viber:+70000000000
 
