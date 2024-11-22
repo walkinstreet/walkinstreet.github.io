@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Иван;Иваfffнов;;;
-FN:Иваfffнов Иван
+N:Иван;Иванов;;;
+FN:Иванов Иван
 
 ORG:ЭнергияЛаб
 EMAIL;type=INTERNET;type=HOME;type=pref:vrnlab@yandex.ru
